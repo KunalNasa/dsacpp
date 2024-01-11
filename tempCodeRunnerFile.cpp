@@ -1,8 +1,6 @@
-
-{
-    int arr1[3] = {1, 3, 7};
-    int arr2[5] = {2, 4, 5, 6, 8};
-    int arr3[8] = {0};
-    sortedarray(arr1, 3, arr2, 5, arr3);
-    print(arr3, 8);
-}
+   // Hero()
+    // // ye constructor create karne ke baad jo default constructor compiler ne create kiya tha vo delete
+    // // ho chuka hai.
+    // {
+    //     cout << "Constructor called" << endl;
+    // }
